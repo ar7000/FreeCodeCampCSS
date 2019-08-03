@@ -6,3 +6,4 @@ Revisiting CSS via FreeCodeCamp resources and copying passed code to Git repo as
 - Gained further understanding of overriding body element and class declarations, particularly:
     - Last-declared class declaration with take precedence over anything declared above it.
     - ID declarations always take precedence over class declarations, regardless of their position in style sheet.
+- Gained further understaning of the structure of hex codes and their relatoon to RGB, i.e. #RRGGBB.
